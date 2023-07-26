@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.analysis.typeCheckingMode": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Launch",
+                "type": "python",
+                "request": "launch",
+                "program": "main.py",
+                "console": "integratedTerminal",
+                "justMyCode": true
+            }
+        ],
+        "compounds": []
+    }
+}

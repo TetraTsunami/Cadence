@@ -1,0 +1,16 @@
+{
+	"token": "",
+	"bot_name": "Cadence",
+	"bot_owner_id": 69,
+	"color": "#C84268",
+	"prefix": "!",
+	"activity": "deep in the code",
+	"support_invite": "",
+	"error_webhook_url": "",
+	"apis": {
+		"youtube": {
+			"username": "",
+			"password": ""
+		}
+	}
+}
